@@ -6,7 +6,7 @@ Howdy!
 
 This is a scaffold that I made for future grunt-projects that I'll be doing. 
 
-Grunt is installed on a 'per-project' basis, therefore it can lead to some startup tweaking.
+Grunt is installed on a 'per-project' basis, therefore it can lead to some time just setting up.
 
 I'm making this so that I can minimize the time it takes to start a new project with Grunt.
 
